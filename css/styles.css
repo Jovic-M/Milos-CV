@@ -46,7 +46,7 @@ a:hover {
 }
 
 .top-container {
- <!-- background-color: #E5CB9F; -->
+  background-color: #E5CB9F; 
   position: relative;
   padding-top: 200px;
 }
