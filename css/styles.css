@@ -46,12 +46,16 @@ a:hover {
 }
 
 .top-container {
-  background-color: #E5CB9F; 
-  position: relative;
-  padding-top: 100px;
-}
+  
 
+  
+  background-image: url('https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash');
+    background-size:cover;
+  background-position:center;
+    
+    
 .middle-container {
+  
   margin: 100px 0;
 }
 
